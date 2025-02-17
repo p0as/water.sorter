@@ -3,7 +3,7 @@ I was bored of some offerwalls asking you to get to level gazillion on these wat
 Feel free to shape this however you want or add more automacy to it since its manual for now
 
 The search function used is a **BFS (Breadth-First Search)** so with too many prompts/bottles it may take more than a minute to go through all uninformed routes
-You can add a heuristic approach to fixing this but i was too lazy to implement it{
+You can add a heuristic approach to fixing this but i was too lazy to implement it
 
 # Functionality
 Pygame based water sort puzzle solver, it transforms the pygame inputs into a key (special code) that can be decoded by the algorithm, heres how to use it:
